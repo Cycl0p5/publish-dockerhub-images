@@ -1,3 +1,3 @@
 
 
-echo "Hello world!"
+echo "Hello from GHCR.io!"
